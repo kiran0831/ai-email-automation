@@ -1,6 +1,6 @@
-# 📧 AI Internship Email Notifier
+# 🤖 AI Email Automation
 
-An intelligent email automation workflow built with **N8N** that monitors Gmail every 6 hours, uses AI to classify and filter emails, and sends only relevant internship and tech opportunities to **Telegram** — with automatic logging to **Google Sheets**.
+An intelligent, fully automated email monitoring system powered by N8N and LLaMA 3.3 70B. Watches your Gmail around the clock, uses a two-stage AI pipeline to classify and filter incoming emails, auto-labels your inbox, logs every opportunity to Google Sheets, and instantly notifies you on Telegram — so you never miss an internship, hackathon, or tech opportunity again.
 
 ---
 
