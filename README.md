@@ -50,3 +50,9 @@ An intelligent, fully automated email monitoring system powered by N8N and LLaMA
 ## Author
 
 **Kiran Reddy Kandi**
+
+---
+
+## 📸 Workflow
+
+![Workflow](https://github.com/user-attachments/assets/c12f4752-527e-4893-a46a-f0c64b0b7991)
