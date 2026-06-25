@@ -1,0 +1,9 @@
+google-auth==2.55.0
+google-auth-oauthlib==1.4.0
+google-auth-httplib2==0.4.0
+google-api-python-client==2.197.0
+groq==1.2.0
+python-dotenv
+requests
+schedule==1.2.2
+python-telegram-bot==20.7
